@@ -1,0 +1,1 @@
+export const FETCH_ROLE_LIST = 'FETCH_ROLE_LIST';
